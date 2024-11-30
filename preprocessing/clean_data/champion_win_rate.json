@@ -1,0 +1,1523 @@
+{
+    "1": {
+        "wins": 164,
+        "losses": 122,
+        "picks": 286,
+        "bans": 32,
+        "win_rate": 57.34,
+        "pick_rate": 1.33,
+        "ban_rate": 0.15
+    },
+    "2": {
+        "wins": 249,
+        "losses": 267,
+        "picks": 516,
+        "bans": 301,
+        "win_rate": 48.26,
+        "pick_rate": 2.4,
+        "ban_rate": 1.4
+    },
+    "3": {
+        "wins": 1195,
+        "losses": 1166,
+        "picks": 2361,
+        "bans": 1333,
+        "win_rate": 50.61,
+        "pick_rate": 10.99,
+        "ban_rate": 6.2
+    },
+    "4": {
+        "wins": 388,
+        "losses": 355,
+        "picks": 743,
+        "bans": 58,
+        "win_rate": 52.22,
+        "pick_rate": 3.46,
+        "ban_rate": 0.27
+    },
+    "5": {
+        "wins": 535,
+        "losses": 577,
+        "picks": 1112,
+        "bans": 73,
+        "win_rate": 48.11,
+        "pick_rate": 5.18,
+        "ban_rate": 0.34
+    },
+    "6": {
+        "wins": 252,
+        "losses": 227,
+        "picks": 479,
+        "bans": 42,
+        "win_rate": 52.61,
+        "pick_rate": 2.23,
+        "ban_rate": 0.2
+    },
+    "7": {
+        "wins": 723,
+        "losses": 791,
+        "picks": 1514,
+        "bans": 14984,
+        "win_rate": 47.75,
+        "pick_rate": 7.05,
+        "ban_rate": 69.75
+    },
+    "8": {
+        "wins": 481,
+        "losses": 478,
+        "picks": 959,
+        "bans": 331,
+        "win_rate": 50.16,
+        "pick_rate": 4.46,
+        "ban_rate": 1.54
+    },
+    "9": {
+        "wins": 296,
+        "losses": 271,
+        "picks": 567,
+        "bans": 285,
+        "win_rate": 52.2,
+        "pick_rate": 2.64,
+        "ban_rate": 1.33
+    },
+    "10": {
+        "wins": 49,
+        "losses": 58,
+        "picks": 107,
+        "bans": 14,
+        "win_rate": 45.79,
+        "pick_rate": 0.5,
+        "ban_rate": 0.07
+    },
+    "11": {
+        "wins": 216,
+        "losses": 191,
+        "picks": 407,
+        "bans": 72,
+        "win_rate": 53.07,
+        "pick_rate": 1.89,
+        "ban_rate": 0.34
+    },
+    "12": {
+        "wins": 847,
+        "losses": 832,
+        "picks": 1679,
+        "bans": 279,
+        "win_rate": 50.45,
+        "pick_rate": 7.82,
+        "ban_rate": 1.3
+    },
+    "13": {
+        "wins": 481,
+        "losses": 433,
+        "picks": 914,
+        "bans": 114,
+        "win_rate": 52.63,
+        "pick_rate": 4.25,
+        "ban_rate": 0.53
+    },
+    "14": {
+        "wins": 297,
+        "losses": 283,
+        "picks": 580,
+        "bans": 22,
+        "win_rate": 51.21,
+        "pick_rate": 2.7,
+        "ban_rate": 0.1
+    },
+    "15": {
+        "wins": 265,
+        "losses": 273,
+        "picks": 538,
+        "bans": 76,
+        "win_rate": 49.26,
+        "pick_rate": 2.5,
+        "ban_rate": 0.35
+    },
+    "16": {
+        "wins": 197,
+        "losses": 195,
+        "picks": 392,
+        "bans": 11,
+        "win_rate": 50.26,
+        "pick_rate": 1.82,
+        "ban_rate": 0.05
+    },
+    "17": {
+        "wins": 252,
+        "losses": 277,
+        "picks": 529,
+        "bans": 514,
+        "win_rate": 47.64,
+        "pick_rate": 2.46,
+        "ban_rate": 2.39
+    },
+    "18": {
+        "wins": 680,
+        "losses": 653,
+        "picks": 1333,
+        "bans": 149,
+        "win_rate": 51.01,
+        "pick_rate": 6.2,
+        "ban_rate": 0.69
+    },
+    "19": {
+        "wins": 445,
+        "losses": 477,
+        "picks": 922,
+        "bans": 398,
+        "win_rate": 48.26,
+        "pick_rate": 4.29,
+        "ban_rate": 1.85
+    },
+    "20": {
+        "wins": 338,
+        "losses": 337,
+        "picks": 675,
+        "bans": 317,
+        "win_rate": 50.07,
+        "pick_rate": 3.14,
+        "ban_rate": 1.48
+    },
+    "21": {
+        "wins": 260,
+        "losses": 251,
+        "picks": 511,
+        "bans": 22,
+        "win_rate": 50.88,
+        "pick_rate": 2.38,
+        "ban_rate": 0.1
+    },
+    "22": {
+        "wins": 2703,
+        "losses": 2639,
+        "picks": 5342,
+        "bans": 7922,
+        "win_rate": 50.6,
+        "pick_rate": 24.87,
+        "ban_rate": 36.88
+    },
+    "23": {
+        "wins": 274,
+        "losses": 280,
+        "picks": 554,
+        "bans": 311,
+        "win_rate": 49.46,
+        "pick_rate": 2.58,
+        "ban_rate": 1.45
+    },
+    "24": {
+        "wins": 1175,
+        "losses": 1206,
+        "picks": 2381,
+        "bans": 3429,
+        "win_rate": 49.35,
+        "pick_rate": 11.08,
+        "ban_rate": 15.96
+    },
+    "25": {
+        "wins": 173,
+        "losses": 196,
+        "picks": 369,
+        "bans": 248,
+        "win_rate": 46.88,
+        "pick_rate": 1.72,
+        "ban_rate": 1.15
+    },
+    "26": {
+        "wins": 204,
+        "losses": 198,
+        "picks": 402,
+        "bans": 32,
+        "win_rate": 50.75,
+        "pick_rate": 1.87,
+        "ban_rate": 0.15
+    },
+    "27": {
+        "wins": 224,
+        "losses": 225,
+        "picks": 449,
+        "bans": 85,
+        "win_rate": 49.89,
+        "pick_rate": 2.09,
+        "ban_rate": 0.4
+    },
+    "28": {
+        "wins": 123,
+        "losses": 140,
+        "picks": 263,
+        "bans": 103,
+        "win_rate": 46.77,
+        "pick_rate": 1.22,
+        "ban_rate": 0.48
+    },
+    "29": {
+        "wins": 229,
+        "losses": 300,
+        "picks": 529,
+        "bans": 83,
+        "win_rate": 43.29,
+        "pick_rate": 2.46,
+        "ban_rate": 0.39
+    },
+    "30": {
+        "wins": 718,
+        "losses": 618,
+        "picks": 1336,
+        "bans": 10676,
+        "win_rate": 53.74,
+        "pick_rate": 6.22,
+        "ban_rate": 49.7
+    },
+    "31": {
+        "wins": 132,
+        "losses": 137,
+        "picks": 269,
+        "bans": 8,
+        "win_rate": 49.07,
+        "pick_rate": 1.25,
+        "ban_rate": 0.04
+    },
+    "32": {
+        "wins": 94,
+        "losses": 105,
+        "picks": 199,
+        "bans": 77,
+        "win_rate": 47.24,
+        "pick_rate": 0.93,
+        "ban_rate": 0.36
+    },
+    "33": {
+        "wins": 84,
+        "losses": 92,
+        "picks": 176,
+        "bans": 96,
+        "win_rate": 47.73,
+        "pick_rate": 0.82,
+        "ban_rate": 0.45
+    },
+    "34": {
+        "wins": 283,
+        "losses": 273,
+        "picks": 556,
+        "bans": 271,
+        "win_rate": 50.9,
+        "pick_rate": 2.59,
+        "ban_rate": 1.26
+    },
+    "35": {
+        "wins": 488,
+        "losses": 503,
+        "picks": 991,
+        "bans": 2217,
+        "win_rate": 49.24,
+        "pick_rate": 4.61,
+        "ban_rate": 10.32
+    },
+    "36": {
+        "wins": 472,
+        "losses": 429,
+        "picks": 901,
+        "bans": 217,
+        "win_rate": 52.39,
+        "pick_rate": 4.19,
+        "ban_rate": 1.01
+    },
+    "37": {
+        "wins": 83,
+        "losses": 91,
+        "picks": 174,
+        "bans": 4,
+        "win_rate": 47.7,
+        "pick_rate": 0.81,
+        "ban_rate": 0.02
+    },
+    "38": {
+        "wins": 110,
+        "losses": 113,
+        "picks": 223,
+        "bans": 22,
+        "win_rate": 49.33,
+        "pick_rate": 1.04,
+        "ban_rate": 0.1
+    },
+    "39": {
+        "wins": 563,
+        "losses": 587,
+        "picks": 1150,
+        "bans": 1865,
+        "win_rate": 48.96,
+        "pick_rate": 5.35,
+        "ban_rate": 8.68
+    },
+    "40": {
+        "wins": 167,
+        "losses": 166,
+        "picks": 333,
+        "bans": 40,
+        "win_rate": 50.15,
+        "pick_rate": 1.55,
+        "ban_rate": 0.19
+    },
+    "41": {
+        "wins": 504,
+        "losses": 513,
+        "picks": 1017,
+        "bans": 485,
+        "win_rate": 49.56,
+        "pick_rate": 4.73,
+        "ban_rate": 2.26
+    },
+    "42": {
+        "wins": 2669,
+        "losses": 2466,
+        "picks": 5135,
+        "bans": 5175,
+        "win_rate": 51.98,
+        "pick_rate": 23.9,
+        "ban_rate": 24.09
+    },
+    "43": {
+        "wins": 1082,
+        "losses": 1085,
+        "picks": 2167,
+        "bans": 484,
+        "win_rate": 49.93,
+        "pick_rate": 10.09,
+        "ban_rate": 2.25
+    },
+    "44": {
+        "wins": 212,
+        "losses": 193,
+        "picks": 405,
+        "bans": 45,
+        "win_rate": 52.35,
+        "pick_rate": 1.89,
+        "ban_rate": 0.21
+    },
+    "45": {
+        "wins": 188,
+        "losses": 157,
+        "picks": 345,
+        "bans": 22,
+        "win_rate": 54.49,
+        "pick_rate": 1.61,
+        "ban_rate": 0.1
+    },
+    "48": {
+        "wins": 54,
+        "losses": 64,
+        "picks": 118,
+        "bans": 19,
+        "win_rate": 45.76,
+        "pick_rate": 0.55,
+        "ban_rate": 0.09
+    },
+    "50": {
+        "wins": 672,
+        "losses": 674,
+        "picks": 1346,
+        "bans": 306,
+        "win_rate": 49.93,
+        "pick_rate": 6.27,
+        "ban_rate": 1.42
+    },
+    "51": {
+        "wins": 1397,
+        "losses": 1474,
+        "picks": 2871,
+        "bans": 1012,
+        "win_rate": 48.66,
+        "pick_rate": 13.36,
+        "ban_rate": 4.71
+    },
+    "53": {
+        "wins": 973,
+        "losses": 1000,
+        "picks": 1973,
+        "bans": 3558,
+        "win_rate": 49.32,
+        "pick_rate": 9.18,
+        "ban_rate": 16.56
+    },
+    "54": {
+        "wins": 293,
+        "losses": 312,
+        "picks": 605,
+        "bans": 465,
+        "win_rate": 48.43,
+        "pick_rate": 2.82,
+        "ban_rate": 2.16
+    },
+    "55": {
+        "wins": 509,
+        "losses": 505,
+        "picks": 1014,
+        "bans": 514,
+        "win_rate": 50.2,
+        "pick_rate": 4.72,
+        "ban_rate": 2.39
+    },
+    "56": {
+        "wins": 329,
+        "losses": 352,
+        "picks": 681,
+        "bans": 171,
+        "win_rate": 48.31,
+        "pick_rate": 3.17,
+        "ban_rate": 0.8
+    },
+    "57": {
+        "wins": 950,
+        "losses": 903,
+        "picks": 1853,
+        "bans": 260,
+        "win_rate": 51.27,
+        "pick_rate": 8.63,
+        "ban_rate": 1.21
+    },
+    "58": {
+        "wins": 914,
+        "losses": 838,
+        "picks": 1752,
+        "bans": 1562,
+        "win_rate": 52.17,
+        "pick_rate": 8.16,
+        "ban_rate": 7.27
+    },
+    "59": {
+        "wins": 319,
+        "losses": 357,
+        "picks": 676,
+        "bans": 26,
+        "win_rate": 47.19,
+        "pick_rate": 3.15,
+        "ban_rate": 0.12
+    },
+    "60": {
+        "wins": 875,
+        "losses": 839,
+        "picks": 1714,
+        "bans": 7577,
+        "win_rate": 51.05,
+        "pick_rate": 7.98,
+        "ban_rate": 35.27
+    },
+    "61": {
+        "wins": 1095,
+        "losses": 1023,
+        "picks": 2118,
+        "bans": 1213,
+        "win_rate": 51.7,
+        "pick_rate": 9.86,
+        "ban_rate": 5.65
+    },
+    "62": {
+        "wins": 356,
+        "losses": 377,
+        "picks": 733,
+        "bans": 39,
+        "win_rate": 48.57,
+        "pick_rate": 3.41,
+        "ban_rate": 0.18
+    },
+    "63": {
+        "wins": 135,
+        "losses": 109,
+        "picks": 244,
+        "bans": 18,
+        "win_rate": 55.33,
+        "pick_rate": 1.14,
+        "ban_rate": 0.08
+    },
+    "64": {
+        "wins": 2706,
+        "losses": 2949,
+        "picks": 5655,
+        "bans": 4576,
+        "win_rate": 47.85,
+        "pick_rate": 26.32,
+        "ban_rate": 21.3
+    },
+    "67": {
+        "wins": 155,
+        "losses": 150,
+        "picks": 305,
+        "bans": 149,
+        "win_rate": 50.82,
+        "pick_rate": 1.42,
+        "ban_rate": 0.69
+    },
+    "68": {
+        "wins": 329,
+        "losses": 295,
+        "picks": 624,
+        "bans": 333,
+        "win_rate": 52.72,
+        "pick_rate": 2.9,
+        "ban_rate": 1.55
+    },
+    "69": {
+        "wins": 558,
+        "losses": 467,
+        "picks": 1025,
+        "bans": 462,
+        "win_rate": 54.44,
+        "pick_rate": 4.77,
+        "ban_rate": 2.15
+    },
+    "72": {
+        "wins": 1007,
+        "losses": 927,
+        "picks": 1934,
+        "bans": 2034,
+        "win_rate": 52.07,
+        "pick_rate": 9.0,
+        "ban_rate": 9.47
+    },
+    "74": {
+        "wins": 242,
+        "losses": 204,
+        "picks": 446,
+        "bans": 115,
+        "win_rate": 54.26,
+        "pick_rate": 2.08,
+        "ban_rate": 0.54
+    },
+    "75": {
+        "wins": 175,
+        "losses": 203,
+        "picks": 378,
+        "bans": 346,
+        "win_rate": 46.3,
+        "pick_rate": 1.76,
+        "ban_rate": 1.61
+    },
+    "76": {
+        "wins": 1412,
+        "losses": 1382,
+        "picks": 2794,
+        "bans": 5643,
+        "win_rate": 50.54,
+        "pick_rate": 13.01,
+        "ban_rate": 26.27
+    },
+    "77": {
+        "wins": 466,
+        "losses": 476,
+        "picks": 942,
+        "bans": 674,
+        "win_rate": 49.47,
+        "pick_rate": 4.38,
+        "ban_rate": 3.14
+    },
+    "78": {
+        "wins": 1265,
+        "losses": 1115,
+        "picks": 2380,
+        "bans": 6723,
+        "win_rate": 53.15,
+        "pick_rate": 11.08,
+        "ban_rate": 31.29
+    },
+    "79": {
+        "wins": 1174,
+        "losses": 1172,
+        "picks": 2346,
+        "bans": 402,
+        "win_rate": 50.04,
+        "pick_rate": 10.92,
+        "ban_rate": 1.87
+    },
+    "80": {
+        "wins": 607,
+        "losses": 581,
+        "picks": 1188,
+        "bans": 158,
+        "win_rate": 51.09,
+        "pick_rate": 5.53,
+        "ban_rate": 0.74
+    },
+    "81": {
+        "wins": 1410,
+        "losses": 1465,
+        "picks": 2875,
+        "bans": 716,
+        "win_rate": 49.04,
+        "pick_rate": 13.38,
+        "ban_rate": 3.33
+    },
+    "82": {
+        "wins": 226,
+        "losses": 240,
+        "picks": 466,
+        "bans": 61,
+        "win_rate": 48.5,
+        "pick_rate": 2.17,
+        "ban_rate": 0.28
+    },
+    "83": {
+        "wins": 127,
+        "losses": 129,
+        "picks": 256,
+        "bans": 121,
+        "win_rate": 49.61,
+        "pick_rate": 1.19,
+        "ban_rate": 0.56
+    },
+    "84": {
+        "wins": 1155,
+        "losses": 1164,
+        "picks": 2319,
+        "bans": 1129,
+        "win_rate": 49.81,
+        "pick_rate": 10.79,
+        "ban_rate": 5.26
+    },
+    "85": {
+        "wins": 410,
+        "losses": 352,
+        "picks": 762,
+        "bans": 1110,
+        "win_rate": 53.81,
+        "pick_rate": 3.55,
+        "ban_rate": 5.17
+    },
+    "86": {
+        "wins": 191,
+        "losses": 182,
+        "picks": 373,
+        "bans": 76,
+        "win_rate": 51.21,
+        "pick_rate": 1.74,
+        "ban_rate": 0.35
+    },
+    "89": {
+        "wins": 971,
+        "losses": 957,
+        "picks": 1928,
+        "bans": 1359,
+        "win_rate": 50.36,
+        "pick_rate": 8.97,
+        "ban_rate": 6.33
+    },
+    "90": {
+        "wins": 126,
+        "losses": 133,
+        "picks": 259,
+        "bans": 38,
+        "win_rate": 48.65,
+        "pick_rate": 1.21,
+        "ban_rate": 0.18
+    },
+    "91": {
+        "wins": 835,
+        "losses": 740,
+        "picks": 1575,
+        "bans": 475,
+        "win_rate": 53.02,
+        "pick_rate": 7.33,
+        "ban_rate": 2.21
+    },
+    "92": {
+        "wins": 406,
+        "losses": 358,
+        "picks": 764,
+        "bans": 155,
+        "win_rate": 53.14,
+        "pick_rate": 3.56,
+        "ban_rate": 0.72
+    },
+    "96": {
+        "wins": 904,
+        "losses": 944,
+        "picks": 1848,
+        "bans": 14223,
+        "win_rate": 48.92,
+        "pick_rate": 8.6,
+        "ban_rate": 66.21
+    },
+    "98": {
+        "wins": 373,
+        "losses": 361,
+        "picks": 734,
+        "bans": 61,
+        "win_rate": 50.82,
+        "pick_rate": 3.42,
+        "ban_rate": 0.28
+    },
+    "99": {
+        "wins": 501,
+        "losses": 475,
+        "picks": 976,
+        "bans": 49,
+        "win_rate": 51.33,
+        "pick_rate": 4.54,
+        "ban_rate": 0.23
+    },
+    "101": {
+        "wins": 509,
+        "losses": 499,
+        "picks": 1008,
+        "bans": 222,
+        "win_rate": 50.5,
+        "pick_rate": 4.69,
+        "ban_rate": 1.03
+    },
+    "102": {
+        "wins": 29,
+        "losses": 35,
+        "picks": 64,
+        "bans": 15,
+        "win_rate": 45.31,
+        "pick_rate": 0.3,
+        "ban_rate": 0.07
+    },
+    "103": {
+        "wins": 1128,
+        "losses": 1160,
+        "picks": 2288,
+        "bans": 292,
+        "win_rate": 49.3,
+        "pick_rate": 10.65,
+        "ban_rate": 1.36
+    },
+    "104": {
+        "wins": 2830,
+        "losses": 2622,
+        "picks": 5452,
+        "bans": 9216,
+        "win_rate": 51.91,
+        "pick_rate": 25.38,
+        "ban_rate": 42.9
+    },
+    "105": {
+        "wins": 186,
+        "losses": 177,
+        "picks": 363,
+        "bans": 117,
+        "win_rate": 51.24,
+        "pick_rate": 1.69,
+        "ban_rate": 0.54
+    },
+    "106": {
+        "wins": 476,
+        "losses": 503,
+        "picks": 979,
+        "bans": 506,
+        "win_rate": 48.62,
+        "pick_rate": 4.56,
+        "ban_rate": 2.36
+    },
+    "107": {
+        "wins": 199,
+        "losses": 204,
+        "picks": 403,
+        "bans": 182,
+        "win_rate": 49.38,
+        "pick_rate": 1.88,
+        "ban_rate": 0.85
+    },
+    "110": {
+        "wins": 918,
+        "losses": 924,
+        "picks": 1842,
+        "bans": 297,
+        "win_rate": 49.84,
+        "pick_rate": 8.57,
+        "ban_rate": 1.38
+    },
+    "111": {
+        "wins": 1205,
+        "losses": 1262,
+        "picks": 2467,
+        "bans": 1302,
+        "win_rate": 48.84,
+        "pick_rate": 11.48,
+        "ban_rate": 6.06
+    },
+    "112": {
+        "wins": 151,
+        "losses": 154,
+        "picks": 305,
+        "bans": 9,
+        "win_rate": 49.51,
+        "pick_rate": 1.42,
+        "ban_rate": 0.04
+    },
+    "113": {
+        "wins": 284,
+        "losses": 296,
+        "picks": 580,
+        "bans": 14,
+        "win_rate": 48.97,
+        "pick_rate": 2.7,
+        "ban_rate": 0.07
+    },
+    "114": {
+        "wins": 492,
+        "losses": 443,
+        "picks": 935,
+        "bans": 1276,
+        "win_rate": 52.62,
+        "pick_rate": 4.35,
+        "ban_rate": 5.94
+    },
+    "115": {
+        "wins": 340,
+        "losses": 340,
+        "picks": 680,
+        "bans": 327,
+        "win_rate": 50.0,
+        "pick_rate": 3.17,
+        "ban_rate": 1.52
+    },
+    "117": {
+        "wins": 1160,
+        "losses": 1197,
+        "picks": 2357,
+        "bans": 788,
+        "win_rate": 49.22,
+        "pick_rate": 10.97,
+        "ban_rate": 3.67
+    },
+    "119": {
+        "wins": 540,
+        "losses": 506,
+        "picks": 1046,
+        "bans": 3854,
+        "win_rate": 51.63,
+        "pick_rate": 4.87,
+        "ban_rate": 17.94
+    },
+    "120": {
+        "wins": 426,
+        "losses": 402,
+        "picks": 828,
+        "bans": 169,
+        "win_rate": 51.45,
+        "pick_rate": 3.85,
+        "ban_rate": 0.79
+    },
+    "121": {
+        "wins": 609,
+        "losses": 583,
+        "picks": 1192,
+        "bans": 336,
+        "win_rate": 51.09,
+        "pick_rate": 5.55,
+        "ban_rate": 1.56
+    },
+    "122": {
+        "wins": 460,
+        "losses": 431,
+        "picks": 891,
+        "bans": 1826,
+        "win_rate": 51.63,
+        "pick_rate": 4.15,
+        "ban_rate": 8.5
+    },
+    "126": {
+        "wins": 927,
+        "losses": 865,
+        "picks": 1792,
+        "bans": 1372,
+        "win_rate": 51.73,
+        "pick_rate": 8.34,
+        "ban_rate": 6.39
+    },
+    "127": {
+        "wins": 311,
+        "losses": 321,
+        "picks": 632,
+        "bans": 127,
+        "win_rate": 49.21,
+        "pick_rate": 2.94,
+        "ban_rate": 0.59
+    },
+    "131": {
+        "wins": 390,
+        "losses": 405,
+        "picks": 795,
+        "bans": 34,
+        "win_rate": 49.06,
+        "pick_rate": 3.7,
+        "ban_rate": 0.16
+    },
+    "133": {
+        "wins": 139,
+        "losses": 130,
+        "picks": 269,
+        "bans": 98,
+        "win_rate": 51.67,
+        "pick_rate": 1.25,
+        "ban_rate": 0.46
+    },
+    "134": {
+        "wins": 451,
+        "losses": 506,
+        "picks": 957,
+        "bans": 338,
+        "win_rate": 47.13,
+        "pick_rate": 4.45,
+        "ban_rate": 1.57
+    },
+    "136": {
+        "wins": 296,
+        "losses": 305,
+        "picks": 601,
+        "bans": 49,
+        "win_rate": 49.25,
+        "pick_rate": 2.8,
+        "ban_rate": 0.23
+    },
+    "141": {
+        "wins": 308,
+        "losses": 289,
+        "picks": 597,
+        "bans": 50,
+        "win_rate": 51.59,
+        "pick_rate": 2.78,
+        "ban_rate": 0.23
+    },
+    "142": {
+        "wins": 553,
+        "losses": 524,
+        "picks": 1077,
+        "bans": 683,
+        "win_rate": 51.35,
+        "pick_rate": 5.01,
+        "ban_rate": 3.18
+    },
+    "143": {
+        "wins": 560,
+        "losses": 549,
+        "picks": 1109,
+        "bans": 330,
+        "win_rate": 50.5,
+        "pick_rate": 5.16,
+        "ban_rate": 1.54
+    },
+    "145": {
+        "wins": 1804,
+        "losses": 1845,
+        "picks": 3649,
+        "bans": 671,
+        "win_rate": 49.44,
+        "pick_rate": 16.99,
+        "ban_rate": 3.12
+    },
+    "147": {
+        "wins": 673,
+        "losses": 666,
+        "picks": 1339,
+        "bans": 173,
+        "win_rate": 50.26,
+        "pick_rate": 6.23,
+        "ban_rate": 0.81
+    },
+    "150": {
+        "wins": 1035,
+        "losses": 990,
+        "picks": 2025,
+        "bans": 1403,
+        "win_rate": 51.11,
+        "pick_rate": 9.43,
+        "ban_rate": 6.53
+    },
+    "154": {
+        "wins": 816,
+        "losses": 780,
+        "picks": 1596,
+        "bans": 511,
+        "win_rate": 51.13,
+        "pick_rate": 7.43,
+        "ban_rate": 2.38
+    },
+    "157": {
+        "wins": 918,
+        "losses": 1016,
+        "picks": 1934,
+        "bans": 3460,
+        "win_rate": 47.47,
+        "pick_rate": 9.0,
+        "ban_rate": 16.11
+    },
+    "161": {
+        "wins": 182,
+        "losses": 165,
+        "picks": 347,
+        "bans": 27,
+        "win_rate": 52.45,
+        "pick_rate": 1.62,
+        "ban_rate": 0.13
+    },
+    "163": {
+        "wins": 724,
+        "losses": 613,
+        "picks": 1337,
+        "bans": 295,
+        "win_rate": 54.15,
+        "pick_rate": 6.22,
+        "ban_rate": 1.37
+    },
+    "164": {
+        "wins": 635,
+        "losses": 621,
+        "picks": 1256,
+        "bans": 221,
+        "win_rate": 50.56,
+        "pick_rate": 5.85,
+        "ban_rate": 1.03
+    },
+    "166": {
+        "wins": 233,
+        "losses": 211,
+        "picks": 444,
+        "bans": 436,
+        "win_rate": 52.48,
+        "pick_rate": 2.07,
+        "ban_rate": 2.03
+    },
+    "200": {
+        "wins": 464,
+        "losses": 425,
+        "picks": 889,
+        "bans": 779,
+        "win_rate": 52.19,
+        "pick_rate": 4.14,
+        "ban_rate": 3.63
+    },
+    "201": {
+        "wins": 1079,
+        "losses": 1055,
+        "picks": 2134,
+        "bans": 1310,
+        "win_rate": 50.56,
+        "pick_rate": 9.93,
+        "ban_rate": 6.1
+    },
+    "202": {
+        "wins": 3008,
+        "losses": 2990,
+        "picks": 5998,
+        "bans": 1597,
+        "win_rate": 50.15,
+        "pick_rate": 27.92,
+        "ban_rate": 7.43
+    },
+    "203": {
+        "wins": 550,
+        "losses": 531,
+        "picks": 1081,
+        "bans": 206,
+        "win_rate": 50.88,
+        "pick_rate": 5.03,
+        "ban_rate": 0.96
+    },
+    "221": {
+        "wins": 528,
+        "losses": 513,
+        "picks": 1041,
+        "bans": 67,
+        "win_rate": 50.72,
+        "pick_rate": 4.85,
+        "ban_rate": 0.31
+    },
+    "222": {
+        "wins": 1302,
+        "losses": 1282,
+        "picks": 2584,
+        "bans": 211,
+        "win_rate": 50.39,
+        "pick_rate": 12.03,
+        "ban_rate": 0.98
+    },
+    "223": {
+        "wins": 287,
+        "losses": 282,
+        "picks": 569,
+        "bans": 65,
+        "win_rate": 50.44,
+        "pick_rate": 2.65,
+        "ban_rate": 0.3
+    },
+    "233": {
+        "wins": 138,
+        "losses": 112,
+        "picks": 250,
+        "bans": 26,
+        "win_rate": 55.2,
+        "pick_rate": 1.16,
+        "ban_rate": 0.12
+    },
+    "234": {
+        "wins": 2595,
+        "losses": 2768,
+        "picks": 5363,
+        "bans": 2219,
+        "win_rate": 48.39,
+        "pick_rate": 24.96,
+        "ban_rate": 10.33
+    },
+    "235": {
+        "wins": 509,
+        "losses": 534,
+        "picks": 1043,
+        "bans": 179,
+        "win_rate": 48.8,
+        "pick_rate": 4.86,
+        "ban_rate": 0.83
+    },
+    "236": {
+        "wins": 400,
+        "losses": 417,
+        "picks": 817,
+        "bans": 94,
+        "win_rate": 48.96,
+        "pick_rate": 3.8,
+        "ban_rate": 0.44
+    },
+    "238": {
+        "wins": 645,
+        "losses": 704,
+        "picks": 1349,
+        "bans": 2327,
+        "win_rate": 47.81,
+        "pick_rate": 6.28,
+        "ban_rate": 10.83
+    },
+    "240": {
+        "wins": 190,
+        "losses": 171,
+        "picks": 361,
+        "bans": 43,
+        "win_rate": 52.63,
+        "pick_rate": 1.68,
+        "ban_rate": 0.2
+    },
+    "245": {
+        "wins": 429,
+        "losses": 446,
+        "picks": 875,
+        "bans": 48,
+        "win_rate": 49.03,
+        "pick_rate": 4.07,
+        "ban_rate": 0.22
+    },
+    "246": {
+        "wins": 383,
+        "losses": 327,
+        "picks": 710,
+        "bans": 113,
+        "win_rate": 53.94,
+        "pick_rate": 3.3,
+        "ban_rate": 0.53
+    },
+    "254": {
+        "wins": 490,
+        "losses": 500,
+        "picks": 990,
+        "bans": 122,
+        "win_rate": 49.49,
+        "pick_rate": 4.61,
+        "ban_rate": 0.57
+    },
+    "266": {
+        "wins": 916,
+        "losses": 983,
+        "picks": 1899,
+        "bans": 1562,
+        "win_rate": 48.24,
+        "pick_rate": 8.84,
+        "ban_rate": 7.27
+    },
+    "267": {
+        "wins": 149,
+        "losses": 123,
+        "picks": 272,
+        "bans": 7,
+        "win_rate": 54.78,
+        "pick_rate": 1.27,
+        "ban_rate": 0.03
+    },
+    "268": {
+        "wins": 261,
+        "losses": 271,
+        "picks": 532,
+        "bans": 70,
+        "win_rate": 49.06,
+        "pick_rate": 2.48,
+        "ban_rate": 0.33
+    },
+    "350": {
+        "wins": 304,
+        "losses": 353,
+        "picks": 657,
+        "bans": 538,
+        "win_rate": 46.27,
+        "pick_rate": 3.06,
+        "ban_rate": 2.5
+    },
+    "360": {
+        "wins": 203,
+        "losses": 201,
+        "picks": 404,
+        "bans": 272,
+        "win_rate": 50.25,
+        "pick_rate": 1.88,
+        "ban_rate": 1.27
+    },
+    "412": {
+        "wins": 1402,
+        "losses": 1413,
+        "picks": 2815,
+        "bans": 742,
+        "win_rate": 49.8,
+        "pick_rate": 13.1,
+        "ban_rate": 3.45
+    },
+    "420": {
+        "wins": 135,
+        "losses": 153,
+        "picks": 288,
+        "bans": 224,
+        "win_rate": 46.88,
+        "pick_rate": 1.34,
+        "ban_rate": 1.04
+    },
+    "421": {
+        "wins": 283,
+        "losses": 285,
+        "picks": 568,
+        "bans": 258,
+        "win_rate": 49.82,
+        "pick_rate": 2.64,
+        "ban_rate": 1.2
+    },
+    "427": {
+        "wins": 123,
+        "losses": 116,
+        "picks": 239,
+        "bans": 78,
+        "win_rate": 51.46,
+        "pick_rate": 1.11,
+        "ban_rate": 0.36
+    },
+    "429": {
+        "wins": 497,
+        "losses": 505,
+        "picks": 1002,
+        "bans": 839,
+        "win_rate": 49.6,
+        "pick_rate": 4.66,
+        "ban_rate": 3.91
+    },
+    "432": {
+        "wins": 803,
+        "losses": 792,
+        "picks": 1595,
+        "bans": 172,
+        "win_rate": 50.34,
+        "pick_rate": 7.42,
+        "ban_rate": 0.8
+    },
+    "497": {
+        "wins": 1238,
+        "losses": 1272,
+        "picks": 2510,
+        "bans": 434,
+        "win_rate": 49.32,
+        "pick_rate": 11.68,
+        "ban_rate": 2.02
+    },
+    "498": {
+        "wins": 511,
+        "losses": 527,
+        "picks": 1038,
+        "bans": 86,
+        "win_rate": 49.23,
+        "pick_rate": 4.83,
+        "ban_rate": 0.4
+    },
+    "516": {
+        "wins": 235,
+        "losses": 255,
+        "picks": 490,
+        "bans": 33,
+        "win_rate": 47.96,
+        "pick_rate": 2.28,
+        "ban_rate": 0.15
+    },
+    "517": {
+        "wins": 2337,
+        "losses": 2510,
+        "picks": 4847,
+        "bans": 4364,
+        "win_rate": 48.22,
+        "pick_rate": 22.56,
+        "ban_rate": 20.31
+    },
+    "518": {
+        "wins": 673,
+        "losses": 686,
+        "picks": 1359,
+        "bans": 427,
+        "win_rate": 49.52,
+        "pick_rate": 6.33,
+        "ban_rate": 1.99
+    },
+    "523": {
+        "wins": 881,
+        "losses": 1055,
+        "picks": 1936,
+        "bans": 196,
+        "win_rate": 45.51,
+        "pick_rate": 9.01,
+        "ban_rate": 0.91
+    },
+    "526": {
+        "wins": 1675,
+        "losses": 1588,
+        "picks": 3263,
+        "bans": 3403,
+        "win_rate": 51.33,
+        "pick_rate": 15.19,
+        "ban_rate": 15.84
+    },
+    "555": {
+        "wins": 1119,
+        "losses": 1249,
+        "picks": 2368,
+        "bans": 13485,
+        "win_rate": 47.26,
+        "pick_rate": 11.02,
+        "ban_rate": 62.77
+    },
+    "711": {
+        "wins": 478,
+        "losses": 445,
+        "picks": 923,
+        "bans": 1310,
+        "win_rate": 51.79,
+        "pick_rate": 4.3,
+        "ban_rate": 6.1
+    },
+    "777": {
+        "wins": 1909,
+        "losses": 2082,
+        "picks": 3991,
+        "bans": 4478,
+        "win_rate": 47.83,
+        "pick_rate": 18.58,
+        "ban_rate": 20.84
+    },
+    "799": {
+        "wins": 893,
+        "losses": 950,
+        "picks": 1843,
+        "bans": 6163,
+        "win_rate": 48.45,
+        "pick_rate": 8.58,
+        "ban_rate": 28.69
+    },
+    "875": {
+        "wins": 240,
+        "losses": 229,
+        "picks": 469,
+        "bans": 17,
+        "win_rate": 51.17,
+        "pick_rate": 2.18,
+        "ban_rate": 0.08
+    },
+    "876": {
+        "wins": 351,
+        "losses": 383,
+        "picks": 734,
+        "bans": 483,
+        "win_rate": 47.82,
+        "pick_rate": 3.42,
+        "ban_rate": 2.25
+    },
+    "887": {
+        "wins": 450,
+        "losses": 434,
+        "picks": 884,
+        "bans": 761,
+        "win_rate": 50.9,
+        "pick_rate": 4.11,
+        "ban_rate": 3.54
+    },
+    "888": {
+        "wins": 322,
+        "losses": 276,
+        "picks": 598,
+        "bans": 68,
+        "win_rate": 53.85,
+        "pick_rate": 2.78,
+        "ban_rate": 0.32
+    },
+    "893": {
+        "wins": 1195,
+        "losses": 1186,
+        "picks": 2381,
+        "bans": 6558,
+        "win_rate": 50.19,
+        "pick_rate": 11.08,
+        "ban_rate": 30.53
+    },
+    "895": {
+        "wins": 100,
+        "losses": 87,
+        "picks": 187,
+        "bans": 181,
+        "win_rate": 53.48,
+        "pick_rate": 0.87,
+        "ban_rate": 0.84
+    },
+    "897": {
+        "wins": 1575,
+        "losses": 1724,
+        "picks": 3299,
+        "bans": 4208,
+        "win_rate": 47.74,
+        "pick_rate": 15.36,
+        "ban_rate": 19.59
+    },
+    "901": {
+        "wins": 759,
+        "losses": 869,
+        "picks": 1628,
+        "bans": 361,
+        "win_rate": 46.62,
+        "pick_rate": 7.58,
+        "ban_rate": 1.68
+    },
+    "902": {
+        "wins": 123,
+        "losses": 129,
+        "picks": 252,
+        "bans": 35,
+        "win_rate": 48.81,
+        "pick_rate": 1.17,
+        "ban_rate": 0.16
+    },
+    "910": {
+        "wins": 1143,
+        "losses": 1144,
+        "picks": 2287,
+        "bans": 3434,
+        "win_rate": 49.98,
+        "pick_rate": 10.65,
+        "ban_rate": 15.98
+    },
+    "950": {
+        "wins": 72,
+        "losses": 70,
+        "picks": 142,
+        "bans": 35,
+        "win_rate": 50.7,
+        "pick_rate": 0.66,
+        "ban_rate": 0.16
+    }
+}
